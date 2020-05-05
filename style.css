@@ -1,0 +1,47 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  
+  display: block;
+  
+}
+
+h1{
+  color:rgb(255, 0, 0);
+  font-family: 'Montserrat', sans-serif;
+  font-size:2cm;
+
+  opacity: 0.6;
+  background-image: url("bg.jpg");
+  
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  line-height: 15cm;
+  display:flex;
+  justify-content:space-evenly;
+  border:solid;
+  border-radius: 1%;
+  border-color: rgb(18, 184, 46);
+}
+
+
+.menu{
+  color:whitesmoke;
+  font-family: 'Raleway', sans-serif;
+  font-size:0.5cm;
+  display:flex;
+  
+  justify-content: space-around;
+  
+
+}
+
+  
+
+a1{
+  background-color: rgba(73, 68, 68,0.3);
+  line-height: 1cm;
+  list-style: width 1cm;
+}
